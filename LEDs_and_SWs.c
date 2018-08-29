@@ -4,8 +4,6 @@
 #include <LEDs_and_SWs.h>
 #include "fsl_gpio.h"
 
-
-
 uint8_t Flag_sw3 = FALSE;
 uint8_t Flag_sw2 = FALSE;
 
