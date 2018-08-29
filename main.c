@@ -36,8 +36,6 @@ for(aux1=0; aux1<4; aux1++)
     	     Led_green_on_off(LED_ON);
     	     Flag_sw3 = FALSE;
     	}
-
-
     	else if(TRUE == Flag_sw2)
     	  {
     	    Led_red_on_off(LED_OFF);
