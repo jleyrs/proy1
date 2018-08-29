@@ -5,7 +5,6 @@
 #define LEDS_AND_SWS_H_
 
 #include <stdint.h>
-
 #define LED_ON (1u)
 #define LED_OFF (0u)
 
