@@ -10,7 +10,7 @@ void funcionEjemploEmmanuel()
 
 void funcionEjemploJuan()
 {
-
+ Ley
 
 }
 
