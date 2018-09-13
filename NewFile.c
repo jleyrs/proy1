@@ -13,7 +13,7 @@ Modifiación ley
 
 void funcionEjemploJuan()
 {
- Ley
+ /* Modificacion de Mike ejercico 3*/
 
 }
 
