@@ -1,21 +1,19 @@
 //Nuevo archivo para examen 
 
-
 void funcionEjemploEmmanuel()
 {
 
 /*
-Funcion de Prueba Proyecto
+Modificacion de Mike 
 */
 
 Modifiación ley
 
 }
 
-
 void funcionEjemploJuan()
 {
- Ley
+ /* Modificacion de Mike ejercico 3*/
 
 }
 
