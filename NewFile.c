@@ -13,13 +13,15 @@ Modifiación ley
 
 void funcionEjemploJuan()
 {
- Ley
+ /* Modificacion de Mike ejercico 3*/
 
 }
 
 void funcionEjemploMike()
 {
 	/* Modificacion 1 Mike*/
+	Modificación 2_
+
 
 /*
 Modificacion Emmanuel
