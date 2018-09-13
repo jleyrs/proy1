@@ -16,9 +16,3 @@ void funcionEjemploJuan()
  /* Modificacion de Mike ejercico 3*/
 
 }
-
-void funcionEjemploMike()
-{
-	/* Modificacion 1 Mike*/
-
-}
